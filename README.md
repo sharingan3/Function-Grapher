@@ -1,2 +1,4 @@
 # Function-Grapher
-It graph functions
+
+
+My code graph functions on an x y plane
